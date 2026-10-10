@@ -1,0 +1,6 @@
+{
+  "name": "ClimaYa",
+  "description": "Aplicación meteorológica completa con pronóstico en tiempo real, 24 horas, 7 días, calidad del aire y gestión de ciudades favoritas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
